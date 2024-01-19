@@ -51,7 +51,7 @@ class Config(object):
     TECH_VJ_SESSION_NAME = "VJ-URL-UPLOADER-BOT"
     
     # database uri (mongodb)
-    TECH_VJ_DATABASE_URL = os.environ.get("TECH_VJ_DATABASE_URL", "")
+    TECH_VJ_DATABASE_URL = os.environ.get("TECH_VJ_DATABASE_URL", "mongodb+srv://nehal969797:nehalsingh969797@cluster0.4xsgmgm.mongodb.net/?retryWrites=true&w=majority")
     TECH_VJ_MAX_RESULTS = "50"
 
     # channel information
@@ -63,9 +63,9 @@ class Config(object):
     
     # Url Shortner Information 
     TECH_VJ = bool(environ.get('TECH_VJ', True)) # Set False If you want shortlink off else True
-    TECH_VJ_URL = environ.get('TECH_VJ_URL', 'moneykamalo.com') # your shortlink url domain or url without https://
-    TECH_VJ_API = environ.get('TECH_VJ_API', '0eefb93e1e3ce9470a7033115ceb1bad13a9d674') # your url shortner api
-    TECH_VJ_TUTORIAL = os.environ.get("TECH_VJ_TUTORIAL", "https://t.me/How_To_Open_Linkl")
+    TECH_VJ_URL = environ.get('TECH_VJ_URL', 'api.shareus.io') # your shortlink url domain or url without https://
+    TECH_VJ_API = environ.get('TECH_VJ_API', 'MENeVZcapqUmOXw9fyRSQm9Z6pu2') # your url shortner api
+    TECH_VJ_TUTORIAL = os.environ.get("TECH_VJ_TUTORIAL", "https://t.me/ezpzsupport/16")
 
 
 # Don't Remove Credit Tg - @VJ_Botz
