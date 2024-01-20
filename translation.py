@@ -57,21 +57,21 @@ Any Problem contact <a href="https://t.me/Lordsakunaa">Owner </a></b>
         [[
             InlineKeyboardButton('🌟 𝐌𝐎𝐑𝐄 𝐁𝐎𝐓𝐒 🌟', url='https://t.me/ezpzsupport/17')
         ], [
-            InlineKeyboardButton('🔍 Search Movies', url='https://t.me/ezpzsupport/18'),
-            InlineKeyboardButton('🤖 Search Anime', url='https://t.me/ezpzsupport/9')
+            InlineKeyboardButton('🔍 Search Movies 🍿', url='https://t.me/ezpzsupport/18'),
+            InlineKeyboardButton('💕 Search Anime 🎥', url='https://t.me/ezpzsupport/9')
         ], [
             InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
         ], [
-            InlineKeyboardButton('🇮🇳 ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ 💖', url='https://instagram.com/tech.vj')
+            InlineKeyboardButton('🇮🇳 Friends Group 💖', url='https://t.me/purpleebots/13')
         ]]
     )
     TECH_VJ_HELP_BUTTONS = InlineKeyboardMarkup(
         [[
             InlineKeyboardButton('🌟 𝐌𝐎𝐑𝐄 𝐁𝐎𝐓𝐒 🌟', url='https://t.me/ezpzsupport/17')
         ], [
-            InlineKeyboardButton('🔍 Search Movies', url='https://t.me/ezpzsupport/18'),
-            InlineKeyboardButton('🤖 Search Anime', url='https://t.me/ezpzsupport/9')
+            InlineKeyboardButton('🔍 Search Movies 🍿', url='https://t.me/ezpzsupport/18'),
+            InlineKeyboardButton('💕 Search Anime 💕', url='https://t.me/ezpzsupport/9')
         ], [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
             InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -83,8 +83,8 @@ Any Problem contact <a href="https://t.me/Lordsakunaa">Owner </a></b>
         [[
             InlineKeyboardButton('🌟 𝐌𝐎𝐑𝐄 𝐁𝐎𝐓𝐒 🌟', url='https://t.me/ezpzsupport/17')
         ], [
-            InlineKeyboardButton('🔍 Search Movies', url='https://t.me/ezpzsupport/18'),
-            InlineKeyboardButton('🤖 Search Anime', url='https://t.me/ezpzsupport/9')
+            InlineKeyboardButton('🔍 Search Movies 🍿', url='https://t.me/ezpzsupport/18'),
+            InlineKeyboardButton('💕 Search Anime 💕', url='https://t.me/ezpzsupport/9')
         ], [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
             InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help')
